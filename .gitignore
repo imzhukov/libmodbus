@@ -28,7 +28,6 @@ Makefile.in
 /libmodbus.pc
 /stamp-h1
 /*.sublime-*
-src/modbus-version.h
 src/win32/modbus.dll.manifest
 tests/bandwidth-client
 tests/bandwidth-server-many-up
